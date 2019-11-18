@@ -1,0 +1,14 @@
+ul {
+
+    list-style-image: url("purple-bullet-round.png");
+    list-style-position: inside;
+   
+    /*
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    */
+}
+
+    
+   
